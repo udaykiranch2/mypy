@@ -1,2 +1,2 @@
 # webscraping
-it is python for scraping manhwa list with ratings and chapters available from a website,
+it is a repository containing some websacraping mini projects.
